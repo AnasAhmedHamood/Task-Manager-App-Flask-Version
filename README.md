@@ -30,7 +30,7 @@ A simple task manager built with **Flask** using **MySQL** and **Jinja2** templa
 
 ## 📸 Screenshots
 
-* Register ![Register](https://github.com/user-attachments/assets/f85370ca-3443-4693-9f52-4d670a7ce2bc)
+* Register ![Register](https://github.com/user-attachments/assets/76393515-73f7-4076-8f2a-122c7b54bdf9)
 * Login ![Login](https://github.com/user-attachments/assets/62f746c3-8dc1-492b-a603-4d62c12a520d)
 * Dashboard with Filter ![Dashboard with Filter](https://github.com/user-attachments/assets/54caf3e8-a1c1-4112-84c8-db819ce3a1dd)
 * Dashboard Typing ![Dashboard Typing](https://github.com/user-attachments/assets/c064da47-77bc-4ec5-af97-3072921b8670)
